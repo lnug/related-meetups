@@ -7,9 +7,13 @@ A list of all JS events in London
 * [www.LNUG.org](www.LNUG.org)
 * NodeJS meetup
 * 
-#NodeBots
+
+# NodeBots
 *
-#Nodeschool
+
+# Nodeschool
+* [Nodeschool.io](www.nodeschool.io)
+* 
 
 #Functional JS
 * [http://funjs.co.uk/](http://lanyrd.com/2014/funjsldn-august/)
