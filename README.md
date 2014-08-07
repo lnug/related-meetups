@@ -8,6 +8,10 @@ A list of all JS events in London
 * NodeJS meetup
 * 
 
+# MeteorJS
+*
+*  A meteor JS meetup, a super friendly framework to build quick web-apps
+
 # NodeBots
 * -
 
