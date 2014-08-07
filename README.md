@@ -9,11 +9,13 @@ A list of all JS events in London
 * 
 
 # MeteorJS
-*
+* -
 *  A meteor JS meetup, a super friendly framework to build quick web-apps
 
 # NodeBots
 * -
+* Recurring workshops to learn how to program robots of all kinds, using Javascript and NodeJS
+
 
 # Nodeschool
 * [Nodeschool.io](www.nodeschool.io)
