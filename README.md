@@ -27,3 +27,7 @@ A list of all JS events in London
 # DimSumJS
 * https://dimsumjs.github.io/
 * Meet & Eat. Dumplings & JavaScripts.
+
+# ShoreditchJS
+* http://shoreditchjs.com/
+* Interested in early-version tools, libraries and frameworks? Like experimenting and playing with tech before it’s cool?
