@@ -31,3 +31,7 @@ A list of all JS events in London
 # ShoreditchJS
 * http://shoreditchjs.com/
 * Interested in early-version tools, libraries and frameworks? Like experimenting and playing with tech before it’s cool?
+
+# MEAN-Stack
+* http://www.meetup.com/MEAN-Stack/
+* ...for anyone interested in learning more about the MEAN Stack (MongoDB, ExpressJS, AngularJS and Node.js)
