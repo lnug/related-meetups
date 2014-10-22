@@ -35,3 +35,7 @@ A list of all JS events in London
 # MEAN-Stack
 * http://www.meetup.com/MEAN-Stack/
 * ...for anyone interested in learning more about the MEAN Stack (MongoDB, ExpressJS, AngularJS and Node.js)
+
+# opentechschool
+* http://www.meetup.com/opentechschool-london/events/214532452/
+* Frontend skills or python, you choose
