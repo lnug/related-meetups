@@ -7,6 +7,10 @@ A list of all JS events in London
 * https://dimsumjs.github.io/
 * Meet & Eat. Dumplings & JavaScripts.
 
+# gin.js
+* https://ginjs.org/
+* An event for JavaScript people to meet and talk. Like the fun part after an event, without anything beforehand. 
+
 # Functional JS
 * [http://funjs.co.uk/](http://lanyrd.com/2014/funjsldn-august/)
 * Functional JS night held in the Guardian's office
