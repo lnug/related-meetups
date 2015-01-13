@@ -1,7 +1,7 @@
-JSinLondon
+Related Meetups
 ==========
 
-A list of all JS events in London
+A list of all related meet-up events in London
 
 # DimSumJS
 * https://dimsumjs.github.io/
