@@ -39,6 +39,10 @@ A list of all related meet-up events in London
 * http://shoreditchjs.com/
 * Interested in early-version tools, libraries and frameworks? Like experimenting and playing with tech before it’s cool?
 
+# SushiJS
+* http://www.sushijs.org/
+* Designed to bring JavaScript developers together through sushi and conversation.
+
 # Open Tech School
 * http://www.meetup.com/opentechschool-london/events/214532452/
 * Frontend skills or python, you choose
