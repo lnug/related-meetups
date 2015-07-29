@@ -7,13 +7,17 @@ A list of all related meet-up events in London
 * https://dimsumjs.github.io/
 * Meet & Eat. Dumplings & JavaScripts.
 
+# Functional JS
+* [http://funjs.co.uk/](http://lanyrd.com/2014/funjsldn-august/)
+* Functional JS night held in the Guardian's office
+
 # gin.js
 * https://ginjs.org/
 * An event for JavaScript people to meet and talk. Like the fun part after an event, without anything beforehand. 
 
-# Functional JS
-* [http://funjs.co.uk/](http://lanyrd.com/2014/funjsldn-august/)
-* Functional JS night held in the Guardian's office
+# Ladies Who Code London
+* http://www.ladieswhocode.com (or our [London meetup page](http://www.meetup.com/Ladies-Who-Code-UK/) or [corner of Github]([Github repo](https://github.com/ladieswhocode/london))
+* A friendly and relaxed all-level coding meetup for anyone who codes and identifies as female. 
 
 # MEAN-Stack
 * http://www.meetup.com/MEAN-Stack/
