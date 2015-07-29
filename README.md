@@ -15,10 +15,6 @@ A list of all related meet-up events in London
 * [http://funjs.co.uk/](http://lanyrd.com/2014/funjsldn-august/)
 * Functional JS night held in the Guardian's office
 
-# LNUG - London Node User Group
-* [lnug.org](http://lnug.org)
-* NodeJS meetup
-
 # MEAN-Stack
 * http://www.meetup.com/MEAN-Stack/
 * ...for anyone interested in learning more about the MEAN Stack (MongoDB, ExpressJS, AngularJS and Node.js)
