@@ -1,7 +1,9 @@
 Related Meetups
 ==========
 
-A list of all related meet-up events in London
+A list of all related meet-up events in London.
+
+If you would like your event updates to be included in our newsletter, please email contact@lnug.org and well add you to our related-meetup organisers group.
 
 # D3.js
 * [http://www.meetup.com/London-d3js/](http://www.meetup.com/London-d3js/)
