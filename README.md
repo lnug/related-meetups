@@ -3,6 +3,10 @@ Related Meetups
 
 A list of all related meet-up events in London
 
+# D3.js
+* [http://www.meetup.com/London-d3js/](http://www.meetup.com/London-d3js/)
+* This is a group for anyone interested in d3js.
+
 # DimSumJS
 * https://dimsumjs.github.io/
 * Meet & Eat. Dumplings & JavaScripts.
@@ -13,11 +17,11 @@ A list of all related meet-up events in London
 
 # gin.js
 * https://ginjs.org/
-* An event for JavaScript people to meet and talk. Like the fun part after an event, without anything beforehand. 
+* An event for JavaScript people to meet and talk. Like the fun part after an event, without anything beforehand.
 
 # Ladies Who Code London
 * http://www.ladieswhocode.com (or our [London meetup page](http://www.meetup.com/Ladies-Who-Code-UK/) or [corner of Github]([Github repo](https://github.com/ladieswhocode/london))
-* A friendly and relaxed all-level coding meetup for anyone who codes and identifies as female. 
+* A friendly and relaxed all-level coding meetup for anyone who codes and identifies as female.
 
 # MEAN-Stack
 * http://www.meetup.com/MEAN-Stack/
