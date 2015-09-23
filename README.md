@@ -52,3 +52,7 @@ If you would like your event updates to be included in our newsletter, please em
 # Open Tech School
 * http://www.meetup.com/opentechschool-london/events/214532452/
 * Frontend skills or python, you choose
+
+# London Javascript Community
+* http://www.meetup.com/London-JavaScript-Community/
+* To learn more about JavaScript, share development experiences or techniques and why not, find new friends to share your passion.
