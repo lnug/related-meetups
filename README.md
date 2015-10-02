@@ -17,6 +17,14 @@ If you would like your event updates to be included in our newsletter, please em
 * [http://funjs.co.uk/](http://lanyrd.com/2014/funjsldn-august/)
 * Functional JS night held in the Guardian's office
 
+# Node Girls
+* https://github.com/node-girls/start-here (or [@nodegirls_LDN](twitter.com/nodegirls_LDN) on Twitter)
+* Node Girls runs free Node.js bootcamps for women. Inspired by [Rails Girls](http://railsgirls.com/) and [Django Girls](https://djangogirls.org/).
+
+# Prosecco.js
+* http://proseccojs.com/ (or [@proseccojs](twitter.com/proseccojs) on Twitter)
+* A meetup bringing together life's two greatest pleasures: Prosecco and JavaScript.
+
 # gin.js
 * https://ginjs.org/
 * An event for JavaScript people to meet and talk. Like the fun part after an event, without anything beforehand.
