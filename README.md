@@ -17,14 +17,6 @@ If you would like your event updates to be included in our newsletter, please em
 * [http://funjs.co.uk/](http://lanyrd.com/2014/funjsldn-august/)
 * Functional JS night held in the Guardian's office
 
-# Node Girls
-* https://github.com/node-girls/start-here (or [@nodegirls_LDN](twitter.com/nodegirls_LDN) on Twitter)
-* Node Girls runs free Node.js bootcamps for women. Inspired by [Rails Girls](http://railsgirls.com/) and [Django Girls](https://djangogirls.org/).
-
-# Prosecco.js
-* http://proseccojs.com/ (or [@proseccojs](twitter.com/proseccojs) on Twitter)
-* A meetup bringing together life's two greatest pleasures: Prosecco and JavaScript.
-
 # gin.js
 * https://ginjs.org/
 * An event for JavaScript people to meet and talk. Like the fun part after an event, without anything beforehand.
@@ -32,6 +24,10 @@ If you would like your event updates to be included in our newsletter, please em
 # Ladies Who Code London
 * http://www.ladieswhocode.com (or our [London meetup page](http://www.meetup.com/Ladies-Who-Code-UK/) or [corner of Github]([Github repo](https://github.com/ladieswhocode/london))
 * A friendly and relaxed all-level coding meetup for anyone who codes and identifies as female.
+
+# London Javascript Community
+* http://www.meetup.com/London-JavaScript-Community/
+* To learn more about JavaScript, share development experiences or techniques and why not, find new friends to share your passion.
 
 # MEAN-Stack
 * http://www.meetup.com/MEAN-Stack/
@@ -45,9 +41,21 @@ If you would like your event updates to be included in our newsletter, please em
 * [Nodebots of London](http://www.meetup.com/NodeBots-of-London)
 * Recurring workshops to learn how to program robots of all kinds, using Javascript and NodeJS
 
+# Node Girls
+* https://github.com/node-girls/start-here (or [@nodegirls_LDN](twitter.com/nodegirls_LDN) on Twitter)
+* Node Girls runs free Node.js bootcamps for women. Inspired by [Rails Girls](http://railsgirls.com/) and [Django Girls](https://djangogirls.org/).
+
 # Nodeschool
 * [Nodeschool.io](http://nodeschool.io)
 * Learn about NodeJS with your friendly neighbour London Node community
+
+# Open Tech School
+* http://www.meetup.com/opentechschool-london/events/214532452/
+* Frontend skills or python, you choose
+
+# Prosecco.js
+* http://proseccojs.com/ (or [@proseccojs](twitter.com/proseccojs) on Twitter)
+* A meetup bringing together life's two greatest pleasures: Prosecco and JavaScript.
 
 # ShoreditchJS
 * http://shoreditchjs.com/
@@ -56,11 +64,3 @@ If you would like your event updates to be included in our newsletter, please em
 # SushiJS
 * http://www.sushijs.org/
 * Designed to bring JavaScript developers together through sushi and conversation.
-
-# Open Tech School
-* http://www.meetup.com/opentechschool-london/events/214532452/
-* Frontend skills or python, you choose
-
-# London Javascript Community
-* http://www.meetup.com/London-JavaScript-Community/
-* To learn more about JavaScript, share development experiences or techniques and why not, find new friends to share your passion.
