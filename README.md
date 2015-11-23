@@ -25,8 +25,9 @@ If you would like your event updates to be included in our newsletter, please em
 * http://www.ladieswhocode.com (or our [London meetup page](http://www.meetup.com/Ladies-Who-Code-UK/) or [corner of Github]([Github repo](https://github.com/ladieswhocode/london))
 * A friendly and relaxed all-level coding meetup for anyone who codes and identifies as female.
 
-# London Javascript Community
-* http://www.meetup.com/London-JavaScript-Community/
+# London JS Community
+* [Meetup group](http://www.meetup.com/London-JavaScript-Community/)
+* [Twitter](https://twitter.com/london_JS)
 * To learn more about JavaScript, share development experiences or techniques and why not, find new friends to share your passion.
 
 # MEAN-Stack
