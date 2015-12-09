@@ -13,6 +13,10 @@ If you would like your event updates to be included in our newsletter, please em
 * https://dimsumjs.github.io/
 * Meet & Eat. Dumplings & JavaScripts.
 
+# Free Code Camp London
+* https://www.facebook.com/groups/free.code.camp.london/
+* Learn to code and help nonprofits.
+
 # Functional JS
 * [http://funjs.co.uk/](http://lanyrd.com/2014/funjsldn-august/)
 * Functional JS night held in the Guardian's office
