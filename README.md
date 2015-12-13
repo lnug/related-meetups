@@ -1,4 +1,4 @@
-#Related Meetups
+# Related Meetups
 
 
 A list of all related meet-up events in London.
@@ -71,8 +71,8 @@ If you would like your event updates to be included in our newsletter, please em
 * Designed to bring JavaScript developers together through sushi and conversation.
 
 
-#Conferences 
+# Conferences
 
 ## EnhanceConf  - 4th March 2016
 * http://enhanceconf.com  
-* A community conference dedicated to progressive enhancement. 
+* A community conference dedicated to progressive enhancement.
