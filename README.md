@@ -70,6 +70,9 @@ If you would like your event updates to be included in our newsletter, please em
 * http://www.sushijs.org/
 * Designed to bring JavaScript developers together through sushi and conversation.
 
+## BowlingJS
+* http://bowlingjs.github.io/
+* Informal group of developers who like to meet up and throw bowling balls at pins whilst discussing code, hipster tech and community.
 
 # Conferences
 
