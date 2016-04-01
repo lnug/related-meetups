@@ -14,8 +14,9 @@ If you would like your event updates to be included in our newsletter, please em
 * Meet & Eat. Dumplings & JavaScripts.
 
 ## Free Code Camp London
-* https://www.facebook.com/groups/free.code.camp.london/
-* Learn to code and help nonprofits.
+* [Facebook Group](https://www.facebook.com/groups/free.code.camp.london/)
+* [Twitter](https://twitter.com/LondonFCC)
+* Local study group for a free self-paced Full Stack JavaScript coding bootcamp. Meeting weekly. Lean to code and help non-profits.
 
 ## Functional JS
 * [http://funjs.co.uk/](http://lanyrd.com/2014/funjsldn-august/)
