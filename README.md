@@ -60,7 +60,7 @@ If you would like your event updates to be included in our newsletter, please em
 * Frontend skills or python, you choose
 
 ## Prosecco.js
-* http://proseccojs.com/ (or [@proseccojs](twitter.com/proseccojs) on Twitter)
+* http://proseccojs.com/ (or [@proseccojs](http://twitter.com/proseccojs) on Twitter)
 * A meetup bringing together life's two greatest pleasures: Prosecco and JavaScript.
 
 ## ShoreditchJS
