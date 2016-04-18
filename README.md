@@ -77,6 +77,14 @@ If you would like your event updates to be included in our newsletter, please em
 
 # Conferences
 
+## Microservices Day  - May 10th, 2016
+* http://microservicesday.com
+*  Learn how leading enterprises are leveraging digital transformation to achieve rapid delivery and be inspired, not intimidated, by the unicorns.
+
+## NodeConf London 2016  - May 11th, 2016
+* http://london.nodeconf.com
+* NodeConf London will bring together our industry's enterprise heavyweights, our subject experts and highlight the finest talent London has to offer. 
+
 ## EnhanceConf  - 4th March 2016
 * http://enhanceconf.com  
 * A community conference dedicated to progressive enhancement.
