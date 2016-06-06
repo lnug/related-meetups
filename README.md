@@ -30,6 +30,10 @@ If you would like your event updates to be included in our newsletter, please em
 * http://www.ladieswhocode.com (or our [London meetup page](http://www.meetup.com/Ladies-Who-Code-UK/) or [corner of Github]([Github repo](https://github.com/ladieswhocode/london))
 * A friendly and relaxed all-level coding meetup for anyone who codes and identifies as female.
 
+## London Ajax
+* http://www.londonajax.com (or our [London Ajax meetup page](http://www.meetup.com/londonajax/) or [Slack group](http://londonajax.slack.com))
+* Monthly meetups and other JavaScript events
+
 ## London JS Community
 * [Meetup group](http://www.meetup.com/London-JavaScript-Community/)
 * [Twitter](https://twitter.com/london_JS)
@@ -77,9 +81,17 @@ If you would like your event updates to be included in our newsletter, please em
 
 # Conferences
 
+## HalfStack 2016  - November 18th, 2016
+* http://halfstackconf.com
+* HalfStack is a one-day, front-end JavaScript conference in a Shoreditch pub.
+
+##FullStack 2016  - July 13th - 15th, 2016
+* https://skillsmatter.com/conferences/7278-fullstack
+* Conference on JavaScript, Node & Internet of Things
+
 ## Microservices Day  - May 10th, 2016
 * http://microservicesday.com
-*  Learn how leading enterprises are leveraging digital transformation to achieve rapid delivery and be inspired, not intimidated, by the unicorns.
+* Learn how leading enterprises are leveraging digital transformation to achieve rapid delivery and be inspired, not intimidated, by the unicorns.
 
 ## NodeConf London 2016  - May 11th, 2016
 * http://london.nodeconf.com
