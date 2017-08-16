@@ -85,7 +85,7 @@ If you would like your event updates to be included in our newsletter, please em
 * http://halfstackconf.com
 * HalfStack is a one-day, front-end JavaScript conference in a Shoreditch pub.
 
-##FullStack 2016  - July 13th - 15th, 2016
+## FullStack 2016  - July 13th - 15th, 2016
 * https://skillsmatter.com/conferences/7278-fullstack
 * Conference on JavaScript, Node & Internet of Things
 
